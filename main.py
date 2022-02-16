@@ -1,7 +1,6 @@
 
 def main():
-  print("Janne")
-  print("Ove")
+  pass
 
 
 
