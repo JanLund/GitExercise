@@ -1,3 +1,3 @@
 # GitExercise
 
-## local.md some text
+## remote.md
