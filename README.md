@@ -1,4 +1,3 @@
-t# GitExercise
+# GitExercise
 
-## changed locally 6
-## changed remotly 6
+Excersice in version handling and cooperation
