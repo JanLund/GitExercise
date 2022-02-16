@@ -1,6 +1,9 @@
+import janne
+import ove
 
 def main():
-  pass
+  ove.printName()
+  janne.printName()
 
 
 
