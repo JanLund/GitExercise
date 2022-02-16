@@ -1,3 +1,3 @@
 # GitExercise
 
-## changed locally 2 
+## changed remotly 2 
